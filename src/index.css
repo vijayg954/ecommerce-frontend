@@ -22,3 +22,6 @@ display: block;
     }
   }
   ::-webkit-scrollbar{display: none;}
+  body{
+    background: #e2d2d5;
+  }

@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className="flex mx-10 flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm">
         <div>
-          <img src={assets.logo} className="mb-5 w-32 " alt=""></img>
+          Ecommerce
           <p className="w-full md:w-2/3 text-gray-700">
             haskjdh wahkf fhhfklhf oif oisdfiosf oiudsdfiosdfl
             eriuoiekldshaskjdh wahkf fhhfklhf oif oisdfiosf oiudsdfiosdfl

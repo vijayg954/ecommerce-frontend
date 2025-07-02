@@ -20,7 +20,10 @@ const Hero = () => {
         </div>
       </div>
       {/* hero right  */}
-      <img className="w-full sm:w-1/2" src={assets.hero_img}></img>
+      <img
+        className="w-full sm:w-1/2"
+        src="https://img.freepik.com/free-photo/gorgeous-woman-posing-with-floral-top-fashion-concept_144627-19125.jpg?t=st=1727578734~exp=1727582334~hmac=1f4f8db994b2043a8d74dea2f0f6155521f0f3416547674b12f75d61a1d334eb&w=996"
+      ></img>
     </div>
   );
 };
